@@ -1,1 +1,1 @@
-# End-to-End-Q-A-Chatbot-with-Langchain-and-OpenAI-Ollama
+# End-to-End-Q/A-Chatbot-with-Langchain-and-OpenAI-Ollama
